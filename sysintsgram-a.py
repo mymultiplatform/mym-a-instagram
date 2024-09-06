@@ -17,7 +17,7 @@ time.sleep(3)
 username = driver.find_element(By.NAME, "username")
 password = driver.find_element(By.NAME, "password")
 username.send_keys("mymultiplatform") # Replace with your Instagram username
-password.send_keys("Sexo247420") # Replace with your Instagram password
+password.send_keys("deamon") # Replace with your Instagram password
 password.send_keys(Keys.RETURN)
 time.sleep(5)
 # Function to scroll down
